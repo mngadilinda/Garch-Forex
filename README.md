@@ -1,6 +1,9 @@
 Using Garch to forecast Volatility 
+
 Data From Yahoo Finance
-Eurusd
+
+EUR/USD
+
 The initial plot to have a look at the data
 ![image](https://github.com/user-attachments/assets/08180cc0-23e2-489d-b650-af3393da9711)
 
